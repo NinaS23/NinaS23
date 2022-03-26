@@ -1,4 +1,4 @@
-### olá! eu sou a Maria Schwarz ,
+### olá! eu sou a Maria Schwarz 
   Conhecida como NinaS23.Entrei no curso de formação intensiva, full-stack, da Driven Education.Atualmente estou terminando front-end e  gosto sempre de aprender linguagens novas , meu foco ,é dominar oque eu  estou aprendendo . Meus pronomes são : ela/dela e uma curiosidade sobre mim é que adoro desenhar nas horas livres
 <div align="center">
   <a href="https://github.com/NinaS23">
