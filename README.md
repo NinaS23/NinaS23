@@ -1,5 +1,8 @@
 ### olá! eu sou a Maria Schwarz 
-  Conhecida como NinaS23.Entrei no curso de formação intensiva, full-stack, da Driven Education.Atualmente estou terminando front-end e  gosto sempre de aprender linguagens novas , meu foco ,é dominar oque eu  estou aprendendo . Meus pronomes são : ela/dela e uma curiosidade sobre mim é que adoro desenhar nas horas livres
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Hi+there!+I'm+a+developer!+;Welcome+to+my+Github+profile!">
+</p>
+     
   
 <div style="display:flex" align="center">
   <a href="https://github.com/NinaS23">
