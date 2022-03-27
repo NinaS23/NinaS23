@@ -1,4 +1,4 @@
-### olá! eu sou a Maria Schwarz - estudante full-stack na Driven Education
+### olá! eu sou a Maria Schwarz -
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Hi+there!+I'm+a+developer!+;Welcome+to+my+Github+profile!">
 </p>
@@ -32,4 +32,13 @@
   <a href = "mailto:mariabevenuto062@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     
   ![Snake animation](https://github.com/NinaS23/NinaS23/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
+  ##
+ 
+<div> 
+- 🇧🇷 Brasileira
+- 🖥️estudante full-stack na <i><b>Driven Education</b></i>
+- ♀️ Pronouns: ela/dela
+
  </div>
