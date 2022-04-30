@@ -39,6 +39,6 @@
 <div> 
 - 🇧🇷 Brasileira
 - 🖥️estudante full-stack na <i><b>Driven Education</b></i>
-- ♀️ Pronouns: ela/dela
+- ♀️ pronomes: ela/dela
 
  </div>
