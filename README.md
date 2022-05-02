@@ -20,6 +20,10 @@
   <img align="center" alt="Nina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="right" alt="Nina-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/cZVPScEt5ZQmkdGYUe/giphy.gif">
+  <img   align="center" alt="Nina-pic" " 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>                <img align="center" alt="Nina-pic"                                                                          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40"/> 
+        <img align="center" alt="Nina-pic"                                                                                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40"/>
 </div>
   
   </div>
