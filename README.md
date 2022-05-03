@@ -10,9 +10,9 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaS23&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    </div>
-   
-  ##
  
+  ## <p> Habilidades </p>
+  
 <div> 
 <div style="display: flex"><br>
   <img align="center" alt="Nina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
