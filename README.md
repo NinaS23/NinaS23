@@ -1,6 +1,6 @@
 ### olá! eu sou  Maria Schwarz:
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Hi+there!+I'm+a+developer!+;Welcome+to+my+Github+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+a+Student+at+DrivenEducation!+;Welcome+to+my+Github+profile!">
 </p>
      
   
