@@ -63,5 +63,5 @@ const madu = {
 </div>
    </div>
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=514372&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Tchau,+🙃+tenha+um+bom+dia!+;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0077B5&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Tchau,+🙃+tenha+um+bom+dia!+;">
 </p>
