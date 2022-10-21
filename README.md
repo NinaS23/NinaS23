@@ -49,8 +49,6 @@ const madu = {
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ##  contato
- 
-<img src="https://media2.giphy.com/media/sxOhzsn0DUXR3PvbxD/giphy.gif" align="right" width="150px" /> 
 
 <p>
  <a href="https://www.linkedin.com/in/maria-eduarda-marinho-schwarz-186ba2232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
