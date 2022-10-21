@@ -12,7 +12,7 @@ const madu = {
   idade: "19 anos",
   nacionalidade: "Brasileira",
   sobre: {
-      programação: "Descobri minha paixão por programação em 2021",
+      dev: "Descobri minha paixão por programação em 2021",
       fatoCurioso: "uma das minhas coisas favoritas no mundo, são filmes de animação",
       animais: "em falar em animais, eu tenho 3 bolinhas de pelos",
       objetivo: "meu objetivo é usar tecnologia para contribuir na vida das pessoas da melhor forma",
