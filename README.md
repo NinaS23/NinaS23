@@ -1,55 +1,57 @@
-### olá! eu sou  Maria Schwarz:
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+a+Student+at+DrivenEducation!+;Welcome+to+my+Github+profile!">
+
+<h1 align='center'>Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, Eu sou a Madu</h1>
+<p align='center'>
 </p>
-     
-  
+<br />
+
+###  Sobre mim <img align="right" src="https://media0.giphy.com/media/cZVPScEt5ZQmkdGYUe/giphy.gif" width="300">
+
+```javascript
+const madu = {
+  pronomes: "ela" | "dela",
+  idade: "19 anos",
+  nacionalidade: "Brasileira",
+  sobre: {
+      programação: "Descobri minha paixão por programação em 2021",
+      fatoCurioso: "uma das minhas coisas favoritas no mundo, são filmes de animação",
+      animais: "em falar em animais, eu tenho 3 bolinhas",
+  }
+}
+```
+## linguagem e ferramentas
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![](https://img.shields.io/badge/GITHUB-100101?style=for-the-badge&logo=github&logoColor=white)
+
+### Front-end:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### Back-end:
+![NodeJs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Database:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Testes
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+ ## 
 <div style="display:flex" align="center">
   <a href="https://github.com/NinaS23">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=NinaS23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaS23&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=NinaS23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaS23&layout=compact&langs_count=7&theme=dark"/>
 </div>
    </div>
  
-  ## <p> Habilidades </p>
-  
-<div> 
-<div style="display: flex"><br>
-  <img align="center" alt="Nina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ninaa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Nina-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/cZVPScEt5ZQmkdGYUe/giphy.gif">
-  <img   align="center" alt="Nina-pic" " 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>                <img align="center" alt="Nina-pic"                                                                          
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40"/> 
-          <img align="center" alt="Nina-pic"   
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40"/>
-             <img align="center" alt="Nina-pic"   
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>   
-            <img align="center" alt="Nina-pic"   
-        <img src="https://camo.githubusercontent.com/521b6af10b5409bdfefae1b331c084f5a9daa28290f347e4861fb17e817028f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d706c61696e2e737667" width="40"  height="40" />   
-        
-   <img align="center" alt="Nina-pic"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="50"/> 
-</div>
-  
-  </div>
-  
-  ##
- 
-<div> 
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/maria-eduarda-marinho-schwarz-186ba2232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mariabevenuto062@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-    
-  ![Snake animation](https://github.com/NinaS23/NinaS23/blob/output/github-contribution-grid-snake.svg)
-  </div>
-  
-  ##
- 
-<div> 
-- 🇧🇷 Brasileira
-- 🖥️estudante full-stack na <i><b>Driven Education</b></i>
-- ♀️ pronomes: ela/dela
-
- </div>
