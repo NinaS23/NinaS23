@@ -15,7 +15,7 @@ const madu = {
       dev: "Descobri minha paixão por programação em 2021",
       fatoCurioso: "uma das minhas coisas favoritas no mundo, são filmes de animação",
       animais: "em falar em animais, eu tenho 3 bolinhas de pelos",
-      objetivo: "meu objetivo é usar tecnologia para contribuir na vida das pessoas da melhor forma",
+      objetivo: "meu objetivo é usar tecnologia para contribuir na vida das pessoas da melhor forma"
   }
 }
 ```
