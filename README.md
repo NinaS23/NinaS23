@@ -48,6 +48,15 @@ const madu = {
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+##  contato
+ 
+<img src="https://media2.giphy.com/media/sxOhzsn0DUXR3PvbxD/giphy.gif" align="right" width="150px" /> 
+
+<p>
+ <a href="https://www.linkedin.com/in/maria-eduarda-marinho-schwarz-186ba2232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="mailto:mariaschwarzdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></ a>
+</p>
+
  ## 
 <div style="display:flex" align="center">
   <a href="https://github.com/NinaS23">
