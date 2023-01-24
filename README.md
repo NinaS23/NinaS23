@@ -57,8 +57,8 @@ const madu = {
  ## 
 <div style="display:flex" align="center">
   <a href="https://github.com/NinaS23">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=NinaS23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaS23&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NinaS23&theme=nightowl&count_private=true&show_icons=true&hide_border=true" alt="maria's github stats" /> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NinaS23&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
    </div>
  <p align="center">
