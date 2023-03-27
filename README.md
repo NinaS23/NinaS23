@@ -1,5 +1,5 @@
 
-<h1 align='center'>Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, Eu sou a Madu</h1>
+<h1 align='center'>Oi, Eu sou a Madu</h1>
 <p align='center'>
 </p>
 <br />
