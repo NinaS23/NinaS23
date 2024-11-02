@@ -13,7 +13,7 @@ const madu = {
   nacionalidade: "Brasileira",
   sobre: {
       dev: "Descobri minha paixão por programação em 2021",
-      fatoCurioso: "uma das minhas coisas favoritas no mundo, são filmes de animação",
+      fato_curioso: "uma das minhas coisas favoritas no mundo, são filmes de animação",
       animais: "falando em animais, eu tenho 3 bolinhas de pelos",
       objetivo: "meu objetivo é usar tecnologia para contribuir na vida das pessoas da melhor forma"
   }
@@ -62,5 +62,5 @@ const madu = {
 </div>
    </div>
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=316192&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+bye,+🙃+have+a+good+day!+;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=316192&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+tchau,+🙃+tenha+um+bom+dia!+;">
 </p>
